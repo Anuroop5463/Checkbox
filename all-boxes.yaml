@@ -1,6 +1,6 @@
-train: /kaggle/input/training-dataset/images   # Path to training images folder
-val: /kaggle/input/validation-dataset/Images       # Path to validation images folder
-test: /kaggle/input/test-dataset/Images     # Path to test images folder
+train: /kaggle/input/train-data   # Path to training images folder
+val: /kaggle/input/validation-data       # Path to validation images folder
+test: /kaggle/input/test-data     # Path to test images folder
 
 nc: 4  # Number of classes
 names: ['unchecked_checkbox', 'checked_checkbox', 'unchecked_radio_button', 'checked_radio_button']
