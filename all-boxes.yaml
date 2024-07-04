@@ -1,0 +1,6 @@
+train: C:\Users\achennabatny\Desktop\Checkboxes\New folder\Test docs\Dataset\Train data\images   # Path to training images folder
+val: C:\Users\achennabatny\Desktop\Checkboxes\New folder\Test docs\Dataset\Validation data\images       # Path to validation images folder
+test: C:\Users\achennabatny\Desktop\Checkboxes\New folder\Test docs\Dataset\Test data\images     # Path to test images folder
+
+nc: 4  # Number of classes
+names: ['unchecked_checkbox', 'checked_checkbox', 'unchecked_radio_button', 'checked_radio_button']
